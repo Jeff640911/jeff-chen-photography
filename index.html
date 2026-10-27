@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Jeff Chen Photography</title>
+  <meta name="description" content="Jeff Chen 的攝影作品集：人像、風景與電影感創作。">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300;1,400&family=Inter:wght@400;500&family=Noto+Serif+TC:wght@300;400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="index.html">Jeff Chen<small>PHOTOGRAPHY</small></a>
+    <nav class="nav">
+      <a href="#works">Works</a>
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero" id="hero">
+    <div class="letterbox top"></div>
+    <div class="hero-content">
+      <div>
+        <h1 class="hero-title">Light, <em>lingering</em><br>after time.</h1>
+        <p class="hero-sub">光　與　時　間　的　殘　影</p>
+      </div>
+      <div class="hero-meta">
+        <span class="label">Now showing</span>
+        <p class="hero-caption" id="heroCaption"></p>
+        <div class="hero-dots" id="heroDots"></div>
+      </div>
+    </div>
+    <span class="scroll-cue">SCROLL</span>
+    <div class="letterbox bottom"></div>
+  </section>
+
+  <section class="section" id="works">
+    <div class="section-head">
+      <h2 class="section-title">Selected Works<span class="tc">作品</span></h2>
+      <div class="filters" id="filters"></div>
+    </div>
+    <div class="works" id="worksGrid"></div>
+  </section>
+
+  <section class="section about" id="about">
+    <div>
+      <span class="label">About</span>
+      <p class="about-quote" style="margin-top:20px">I photograph the moment just before the light leaves.</p>
+    </div>
+    <div class="about-text">
+      <p>我是 Jeff，住在屏東，平常用相機記錄人像與南台灣的海岸。喜歡日落前後那段光線柔軟、色彩濃郁的時間，也喜歡把一張照片拍得像電影裡的一個鏡頭。</p>
+      <p>從和服、街景人像到廢土風概念創作，每個系列都從一個場景或一種情緒出發，再用光線與色調把故事說完。</p>
+      <dl class="facts">
+        <div><dt class="label">Based in</dt><dd>Pingtung, Taiwan</dd></div>
+        <div><dt class="label">Cameras</dt><dd>GFX100S II · A1</dd></div>
+        <div><dt class="label">Focus</dt><dd>Portrait · Landscape</dd></div>
+      </dl>
+    </div>
+  </section>
+
+  <section class="section contact" id="contact">
+    <span class="label">Commissions open</span>
+    <h2 class="section-title" style="margin-top:18px">Let’s make a scene.</h2>
+    <p>人像 · 和服 · 旅拍 · 商業攝影｜歡迎洽詢拍攝檔期</p>
+    <a class="btn" href="mailto:hello@example.com">Get in touch <span>→</span></a>
+    <div class="socials">
+      <a href="https://www.behance.net/jeff640911c0e1" target="_blank" rel="noopener">Behance</a>
+      <a href="#">Instagram</a>
+      <a href="#">LINE</a>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <span>© 2026 JEFF CHEN</span>
+    <span>PINGTUNG · TAIWAN</span>
+  </footer>
+
+  <script src="photos.js"></script>
+  <script src="data.js"></script>
+  <script src="main.js"></script>
+  <script>initHome();</script>
+</body>
+</html>

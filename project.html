@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Project · Jeff Chen Photography</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300;1,400&family=Inter:wght@400;500&family=Noto+Serif+TC:wght@300;400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="index.html">Jeff Chen<small>PHOTOGRAPHY</small></a>
+    <nav class="nav">
+      <a href="index.html#works" class="active">Works</a>
+      <a href="index.html#about">About</a>
+      <a href="index.html#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main id="project"></main>
+
+  <div class="lightbox" id="lightbox" aria-hidden="true">
+    <button class="lb-close" id="lbClose">CLOSE ✕</button>
+    <button class="lb-btn lb-prev" id="lbPrev" aria-label="上一張">←</button>
+    <img id="lbImg" alt="">
+    <button class="lb-btn lb-next" id="lbNext" aria-label="下一張">→</button>
+    <span class="lb-count" id="lbCount"></span>
+    <span class="lb-exif" id="lbExif"></span>
+  </div>
+
+  <footer class="site-footer">
+    <span>© 2026 JEFF CHEN</span>
+    <span>PINGTUNG · TAIWAN</span>
+  </footer>
+
+  <script src="photos.js"></script>
+  <script src="data.js"></script>
+  <script src="main.js"></script>
+  <script>initProject();</script>
+</body>
+</html>
