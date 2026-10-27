@@ -165,7 +165,6 @@ async function main() {
       model: info.model || "",
       tools: info.tools || "",
       intro: info.intro || "",
-      behance: info.behance || "",
       cover,
       photos,
       _dir: dir,

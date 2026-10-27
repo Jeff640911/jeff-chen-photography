@@ -11,7 +11,6 @@ window.LOCAL_PROJECTS = [
   "model": "阿璃",
   "tools": "Photoshop",
   "intro": "十一月初的成田山，楓葉才紅了一半，銀杏剛開始轉黃。在新勝寺的石階與迴廊之間，跟著午後斜射的光，記錄阿璃在季節交界的模樣。",
-  "behance": "212482479",
   "cover": {
    "file": "FJS23245.jpg",
    "s": "images/naritasan/FJS23245-s.webp",

@@ -25,9 +25,6 @@ npm run photos -- "/照片/原始資料夾"
 | `cover` | 封面檔名 |
 | `slug` | 網址代號（選填，預設用資料夾名稱） |
 | `hidden` | `true` 時不放上網站 |
-| `behance` | 對應的 Behance 專案編號（選填），網站會隱藏該系列的示意圖 |
-
-還沒匯入的系列會先顯示 Behance 示意圖；全部匯入後，把 `data.js` 的 `SHOW_SAMPLES` 改成 `false`。
 
 > 上線時只需要上傳網站檔案和 `images/`，**不要上傳 `Photo/` 原始照片資料夾與 `node_modules/`**。
 
@@ -39,4 +36,4 @@ npm run photos -- "/照片/原始資料夾"
 npm run dev
 ```
 
-打開 http://localhost:8765 。還沒匯入照片時，網站會顯示 Behance 示意圖。
+打開 http://localhost:8765 。

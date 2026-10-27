@@ -104,10 +104,10 @@ function initProject() {
   const id = new URLSearchParams(location.search).get("id");
   const idx = Math.max(0, PROJECTS.findIndex((p) => p.id === id));
   const p = PROJECTS[idx];
+  if (!p) return location.replace("index.html");
   const next = PROJECTS[(idx + 1) % PROJECTS.length];
   const photos = p.photos;
-  // Behance 封面解析度不夠，示意模式改用相簿中的一張當大圖
-  const lead = p.local || !photos.length ? p.cover : photos[Math.min(2, photos.length - 1)];
+  const lead = p.cover;
   const camera = photos.map((ph) => ph.exif && ph.exif.camera).find(Boolean);
   document.title = `${p.title} · Jeff Chen Photography`;
 
@@ -134,21 +134,19 @@ function initProject() {
       <div class="p-hero-media" ${bg(lead)}><img src="${lead.l}" alt="${esc(p.title)}"></div>
     </section>
 
-    ${photos.length
-      ? `<section class="gallery">${photos.map((ph, i) => `<figure data-i="${i}" ${bg(ph)}><img ${imgAttrs(ph, "(max-width: 600px) 100vw, (max-width: 960px) 50vw, 33vw")} alt="${esc(p.title)} ${i + 1}" loading="lazy"></figure>`).join("")}</section>`
-      : `<section class="section" style="padding-inline:0"><div class="p-notice">原型階段只有封面圖。${p.behance ? `<a href="${p.behance}" target="_blank" rel="noopener">在 Behance 查看完整系列 →</a>` : ""}</div></section>`}
+    <section class="gallery">${photos.map((ph, i) => `<figure data-i="${i}" ${bg(ph)}><img ${imgAttrs(ph, "(max-width: 600px) 100vw, (max-width: 960px) 50vw, 33vw")} alt="${esc(p.title)} ${i + 1}" loading="lazy"></figure>`).join("")}</section>
 
-    <a class="p-next" href="project.html?id=${encodeURIComponent(next.id)}">
+    ${next === p ? "" : `<a class="p-next" href="project.html?id=${encodeURIComponent(next.id)}">
       <img src="${next.cover.m}" alt="${esc(next.title)}" loading="lazy">
       <div class="p-next-text">
         <span class="label">Next series</span>
         <h2 class="p-title">${esc(next.title)}</h2>
         <p class="p-en">${esc(next.en)}</p>
       </div>
-    </a>`;
+    </a>`}`;
 
   revealOnScroll(".gallery figure");
-  if (photos.length) initLightbox(photos);
+  initLightbox(photos);
 }
 
 function initLightbox(photos) {
