@@ -33,6 +33,19 @@
       "date": "2026.01.29",
       "model": "小桃",
       "tools": "LightCraft、Photoshop"
+    },
+    "03 湖西．冬": {
+      "title": "湖西．冬",
+      "en": "Kosei, Winter",
+      "category": "landscape",
+      "year": 2026,
+      "place": "高島 · 滋賀",
+      "intro": "同一天的午後，放下和服與人物，沿著琵琶湖西岸的高島慢慢走。溪流、水杉、被雪蓋住的田，從正午中性的雪白，一路走到湖邊粉紫與藍色的黃昏。",
+      "cover": "20260129_kosei-winter_02.jpg",
+      "hidden": false,
+      "slug": "kosei-winter",
+      "date": "2026.01.29",
+      "tools": "LightCraft"
     }
   }
 }

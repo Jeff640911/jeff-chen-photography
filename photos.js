@@ -529,6 +529,182 @@ window.LOCAL_PROJECTS = [
     }
    }
   ]
+ },
+ {
+  "id": "kosei-winter",
+  "title": "湖西．冬",
+  "en": "Kosei, Winter",
+  "cat": "landscape",
+  "year": 2026,
+  "date": "2026.01.29",
+  "place": "高島 · 滋賀",
+  "model": "",
+  "tools": "LightCraft",
+  "intro": "同一天的午後，放下和服與人物，沿著琵琶湖西岸的高島慢慢走。溪流、水杉、被雪蓋住的田，從正午中性的雪白，一路走到湖邊粉紫與藍色的黃昏。",
+  "cover": {
+   "file": "20260129_kosei-winter_02.jpg",
+   "s": "images/kosei-winter/20260129_kosei-winter_02-s.webp",
+   "m": "images/kosei-winter/20260129_kosei-winter_02-m.webp",
+   "l": "images/kosei-winter/20260129_kosei-winter_02-l.webp",
+   "w": 3000,
+   "h": 2250,
+   "color": "rgb(40,24,24)",
+   "exif": {
+    "camera": "SONY ILCE-1M2",
+    "lens": "FE 35mm F1.4 GM",
+    "focal": "35mm",
+    "aperture": "f/7.1",
+    "shutter": "1/100s",
+    "iso": "ISO 100",
+    "date": "2026-01-29"
+   }
+  },
+  "photos": [
+   {
+    "file": "20260129_kosei-winter_01.jpg",
+    "s": "images/kosei-winter/20260129_kosei-winter_01-s.webp",
+    "m": "images/kosei-winter/20260129_kosei-winter_01-m.webp",
+    "l": "images/kosei-winter/20260129_kosei-winter_01-l.webp",
+    "w": 3000,
+    "h": 2250,
+    "color": "rgb(200,200,200)",
+    "exif": {
+     "camera": "SONY ILCE-1M2",
+     "lens": "FE 35mm F1.4 GM",
+     "focal": "35mm",
+     "aperture": "f/2.2",
+     "shutter": "1/200s",
+     "iso": "ISO 100",
+     "date": "2026-01-29"
+    }
+   },
+   {
+    "file": "20260129_kosei-winter_02.jpg",
+    "s": "images/kosei-winter/20260129_kosei-winter_02-s.webp",
+    "m": "images/kosei-winter/20260129_kosei-winter_02-m.webp",
+    "l": "images/kosei-winter/20260129_kosei-winter_02-l.webp",
+    "w": 3000,
+    "h": 2250,
+    "color": "rgb(40,24,24)",
+    "exif": {
+     "camera": "SONY ILCE-1M2",
+     "lens": "FE 35mm F1.4 GM",
+     "focal": "35mm",
+     "aperture": "f/7.1",
+     "shutter": "1/100s",
+     "iso": "ISO 100",
+     "date": "2026-01-29"
+    }
+   },
+   {
+    "file": "20260129_kosei-winter_03.jpg",
+    "s": "images/kosei-winter/20260129_kosei-winter_03-s.webp",
+    "m": "images/kosei-winter/20260129_kosei-winter_03-m.webp",
+    "l": "images/kosei-winter/20260129_kosei-winter_03-l.webp",
+    "w": 2250,
+    "h": 3000,
+    "color": "rgb(24,24,24)",
+    "exif": {
+     "camera": "SONY ILCE-1M2",
+     "lens": "FE 35mm F1.4 GM",
+     "focal": "35mm",
+     "aperture": "f/7.1",
+     "shutter": "1/100s",
+     "iso": "ISO 100",
+     "date": "2026-01-29"
+    }
+   },
+   {
+    "file": "20260129_kosei-winter_04.jpg",
+    "s": "images/kosei-winter/20260129_kosei-winter_04-s.webp",
+    "m": "images/kosei-winter/20260129_kosei-winter_04-m.webp",
+    "l": "images/kosei-winter/20260129_kosei-winter_04-l.webp",
+    "w": 3000,
+    "h": 2250,
+    "color": "rgb(168,152,152)",
+    "exif": {
+     "camera": "SONY ILCE-1M2",
+     "lens": "FE 35mm F1.4 GM",
+     "focal": "35mm",
+     "aperture": "f/7.1",
+     "shutter": "1/100s",
+     "iso": "ISO 100",
+     "date": "2026-01-29"
+    }
+   },
+   {
+    "file": "20260129_kosei-winter_05.jpg",
+    "s": "images/kosei-winter/20260129_kosei-winter_05-s.webp",
+    "m": "images/kosei-winter/20260129_kosei-winter_05-m.webp",
+    "l": "images/kosei-winter/20260129_kosei-winter_05-l.webp",
+    "w": 3000,
+    "h": 2250,
+    "color": "rgb(168,152,136)",
+    "exif": {
+     "camera": "SONY ILCE-1M2",
+     "lens": "FE 35mm F1.4 GM",
+     "focal": "35mm",
+     "aperture": "f/7.1",
+     "shutter": "1/100s",
+     "iso": "ISO 100",
+     "date": "2026-01-29"
+    }
+   },
+   {
+    "file": "20260129_kosei-winter_06.jpg",
+    "s": "images/kosei-winter/20260129_kosei-winter_06-s.webp",
+    "m": "images/kosei-winter/20260129_kosei-winter_06-m.webp",
+    "l": "images/kosei-winter/20260129_kosei-winter_06-l.webp",
+    "w": 3000,
+    "h": 2250,
+    "color": "rgb(88,72,72)",
+    "exif": {
+     "camera": "SONY ILCE-1M2",
+     "lens": "FE 35mm F1.4 GM",
+     "focal": "35mm",
+     "aperture": "f/1.4",
+     "shutter": "1/3200s",
+     "iso": "ISO 100",
+     "date": "2026-01-29"
+    }
+   },
+   {
+    "file": "20260129_kosei-winter_07.jpg",
+    "s": "images/kosei-winter/20260129_kosei-winter_07-s.webp",
+    "m": "images/kosei-winter/20260129_kosei-winter_07-m.webp",
+    "l": "images/kosei-winter/20260129_kosei-winter_07-l.webp",
+    "w": 3000,
+    "h": 2250,
+    "color": "rgb(88,88,104)",
+    "exif": {
+     "camera": "SONY ILCE-1M2",
+     "lens": "FE 35mm F1.4 GM",
+     "focal": "35mm",
+     "aperture": "f/1.4",
+     "shutter": "1/3200s",
+     "iso": "ISO 100",
+     "date": "2026-01-29"
+    }
+   },
+   {
+    "file": "20260129_kosei-winter_08.jpg",
+    "s": "images/kosei-winter/20260129_kosei-winter_08-s.webp",
+    "m": "images/kosei-winter/20260129_kosei-winter_08-m.webp",
+    "l": "images/kosei-winter/20260129_kosei-winter_08-l.webp",
+    "w": 3000,
+    "h": 2250,
+    "color": "rgb(8,8,8)",
+    "exif": {
+     "camera": "SONY ILCE-1M2",
+     "lens": "FE 35mm F1.4 GM",
+     "focal": "35mm",
+     "aperture": "f/1.4",
+     "shutter": "1/2000s",
+     "iso": "ISO 800",
+     "date": "2026-01-29"
+    }
+   }
+  ]
  }
 ];
 window.LOCAL_HERO = [
