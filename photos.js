@@ -8,7 +8,7 @@ window.LOCAL_PROJECTS = [
   "year": 2024,
   "date": "2024.11.06",
   "place": "成田山新勝寺 · 千葉",
-  "model": "阿璃、NINI",
+  "model": "阿璃、Nini",
   "tools": "Photoshop",
   "intro": "十一月初的成田山，楓葉才紅了一半，銀杏剛開始轉黃。在新勝寺的石階與迴廊之間，跟著午後斜射的光，記錄阿璃在季節交界的模樣。",
   "cover": {
