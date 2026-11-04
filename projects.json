@@ -17,8 +17,22 @@
       "hidden": false,
       "slug": "naritasan",
       "date": "2024.11.06",
-      "model": "阿璃",
+      "model": "阿璃、NINI",
       "tools": "Photoshop"
+    },
+    "02 窗光與雪": {
+      "title": "窗光與雪",
+      "en": "Window Light & Snow",
+      "category": "portrait",
+      "year": 2026,
+      "place": "旧竹林院・高島 · 滋賀",
+      "intro": "一月底從京都往琵琶湖西岸走。上午在旧竹林院的木造屋裡，光只從紙窗與庭園進來，黑色振袖幾乎融進陰影；午後雪停在神社與樹林之間，同一件和服忽然被整片白照亮。一天之內，從陰影走進雪光，最後停在湖邊的藍色黃昏。",
+      "cover": "20260129_window-light-and-snow_04.jpg",
+      "hidden": false,
+      "slug": "window-light-and-snow",
+      "date": "2026.01.29",
+      "model": "小桃",
+      "tools": "LightCraft、Photoshop"
     }
   }
 }

@@ -8,7 +8,7 @@ window.LOCAL_PROJECTS = [
   "year": 2024,
   "date": "2024.11.06",
   "place": "成田山新勝寺 · 千葉",
-  "model": "阿璃",
+  "model": "阿璃、NINI",
   "tools": "Photoshop",
   "intro": "十一月初的成田山，楓葉才紅了一半，銀杏剛開始轉黃。在新勝寺的石階與迴廊之間，跟著午後斜射的光，記錄阿璃在季節交界的模樣。",
   "cover": {
@@ -171,6 +171,362 @@ window.LOCAL_PROJECTS = [
     "h": 11648,
     "color": "rgb(56,56,40)",
     "exif": null
+   }
+  ]
+ },
+ {
+  "id": "window-light-and-snow",
+  "title": "窗光與雪",
+  "en": "Window Light & Snow",
+  "cat": "portrait",
+  "year": 2026,
+  "date": "2026.01.29",
+  "place": "旧竹林院・高島 · 滋賀",
+  "model": "小桃",
+  "tools": "LightCraft、Photoshop",
+  "intro": "一月底從京都往琵琶湖西岸走。上午在旧竹林院的木造屋裡，光只從紙窗與庭園進來，黑色振袖幾乎融進陰影；午後雪停在神社與樹林之間，同一件和服忽然被整片白照亮。一天之內，從陰影走進雪光，最後停在湖邊的藍色黃昏。",
+  "cover": {
+   "file": "20260129_window-light-and-snow_04.jpg",
+   "s": "images/window-light-and-snow/20260129_window-light-and-snow_04-s.webp",
+   "m": "images/window-light-and-snow/20260129_window-light-and-snow_04-m.webp",
+   "l": "images/window-light-and-snow/20260129_window-light-and-snow_04-l.webp",
+   "w": 3000,
+   "h": 2250,
+   "color": "rgb(72,40,24)",
+   "exif": {
+    "camera": "SONY ILCE-1M2",
+    "lens": "FE 85mm F1.4 GM II",
+    "focal": "85mm",
+    "aperture": "f/2.8",
+    "shutter": "1/125s",
+    "iso": "ISO 1600",
+    "date": "2026-01-29"
+   }
+  },
+  "photos": [
+   {
+    "file": "20260129_window-light-and-snow_01.jpg",
+    "s": "images/window-light-and-snow/20260129_window-light-and-snow_01-s.webp",
+    "m": "images/window-light-and-snow/20260129_window-light-and-snow_01-m.webp",
+    "l": "images/window-light-and-snow/20260129_window-light-and-snow_01-l.webp",
+    "w": 3000,
+    "h": 2250,
+    "color": "rgb(24,8,8)",
+    "exif": {
+     "camera": "FUJIFILM GFX100S II",
+     "lens": "GF55mmF1.7 R WR",
+     "focal": "55mm",
+     "aperture": "f/2",
+     "shutter": "1/80s",
+     "iso": "ISO 100",
+     "date": "2026-01-29"
+    }
+   },
+   {
+    "file": "20260129_window-light-and-snow_02.jpg",
+    "s": "images/window-light-and-snow/20260129_window-light-and-snow_02-s.webp",
+    "m": "images/window-light-and-snow/20260129_window-light-and-snow_02-m.webp",
+    "l": "images/window-light-and-snow/20260129_window-light-and-snow_02-l.webp",
+    "w": 3000,
+    "h": 2250,
+    "color": "rgb(8,8,8)",
+    "exif": {
+     "camera": "FUJIFILM GFX100S II",
+     "lens": "GF55mmF1.7 R WR",
+     "focal": "55mm",
+     "aperture": "f/2",
+     "shutter": "1/160s",
+     "iso": "ISO 160",
+     "date": "2026-01-29"
+    }
+   },
+   {
+    "file": "20260129_window-light-and-snow_03.jpg",
+    "s": "images/window-light-and-snow/20260129_window-light-and-snow_03-s.webp",
+    "m": "images/window-light-and-snow/20260129_window-light-and-snow_03-m.webp",
+    "l": "images/window-light-and-snow/20260129_window-light-and-snow_03-l.webp",
+    "w": 2249,
+    "h": 3000,
+    "color": "rgb(8,8,8)",
+    "exif": {
+     "camera": "SONY ILCE-1M2",
+     "lens": "FE 85mm F1.4 GM II",
+     "focal": "85mm",
+     "aperture": "f/2.2",
+     "shutter": "1/125s",
+     "iso": "ISO 100",
+     "date": "2026-01-29"
+    }
+   },
+   {
+    "file": "20260129_window-light-and-snow_04.jpg",
+    "s": "images/window-light-and-snow/20260129_window-light-and-snow_04-s.webp",
+    "m": "images/window-light-and-snow/20260129_window-light-and-snow_04-m.webp",
+    "l": "images/window-light-and-snow/20260129_window-light-and-snow_04-l.webp",
+    "w": 3000,
+    "h": 2250,
+    "color": "rgb(72,40,24)",
+    "exif": {
+     "camera": "SONY ILCE-1M2",
+     "lens": "FE 85mm F1.4 GM II",
+     "focal": "85mm",
+     "aperture": "f/2.8",
+     "shutter": "1/125s",
+     "iso": "ISO 1600",
+     "date": "2026-01-29"
+    }
+   },
+   {
+    "file": "20260129_window-light-and-snow_05.jpg",
+    "s": "images/window-light-and-snow/20260129_window-light-and-snow_05-s.webp",
+    "m": "images/window-light-and-snow/20260129_window-light-and-snow_05-m.webp",
+    "l": "images/window-light-and-snow/20260129_window-light-and-snow_05-l.webp",
+    "w": 3000,
+    "h": 2250,
+    "color": "rgb(40,24,24)",
+    "exif": {
+     "camera": "SONY ILCE-1M2",
+     "lens": "FE 85mm F1.4 GM II",
+     "focal": "85mm",
+     "aperture": "f/3.2",
+     "shutter": "1/125s",
+     "iso": "ISO 160",
+     "date": "2026-01-29"
+    }
+   },
+   {
+    "file": "20260129_window-light-and-snow_06.jpg",
+    "s": "images/window-light-and-snow/20260129_window-light-and-snow_06-s.webp",
+    "m": "images/window-light-and-snow/20260129_window-light-and-snow_06-m.webp",
+    "l": "images/window-light-and-snow/20260129_window-light-and-snow_06-l.webp",
+    "w": 2250,
+    "h": 3000,
+    "color": "rgb(8,8,8)",
+    "exif": {
+     "camera": "FUJIFILM GFX100S II",
+     "lens": "GF55mmF1.7 R WR",
+     "focal": "55mm",
+     "aperture": "f/2.8",
+     "shutter": "1/100s",
+     "iso": "ISO 200",
+     "date": "2026-01-29"
+    }
+   },
+   {
+    "file": "20260129_window-light-and-snow_07.jpg",
+    "s": "images/window-light-and-snow/20260129_window-light-and-snow_07-s.webp",
+    "m": "images/window-light-and-snow/20260129_window-light-and-snow_07-m.webp",
+    "l": "images/window-light-and-snow/20260129_window-light-and-snow_07-l.webp",
+    "w": 3000,
+    "h": 2250,
+    "color": "rgb(8,8,8)",
+    "exif": {
+     "camera": "FUJIFILM GFX100S II",
+     "lens": "GF55mmF1.7 R WR",
+     "focal": "55mm",
+     "aperture": "f/2.8",
+     "shutter": "1/100s",
+     "iso": "ISO 200",
+     "date": "2026-01-29"
+    }
+   },
+   {
+    "file": "20260129_window-light-and-snow_08.jpg",
+    "s": "images/window-light-and-snow/20260129_window-light-and-snow_08-s.webp",
+    "m": "images/window-light-and-snow/20260129_window-light-and-snow_08-m.webp",
+    "l": "images/window-light-and-snow/20260129_window-light-and-snow_08-l.webp",
+    "w": 2250,
+    "h": 3000,
+    "color": "rgb(24,24,24)",
+    "exif": {
+     "camera": "FUJIFILM GFX100S II",
+     "lens": "GF55mmF1.7 R WR",
+     "focal": "55mm",
+     "aperture": "f/2.8",
+     "shutter": "1/200s",
+     "iso": "ISO 200",
+     "date": "2026-01-29"
+    }
+   },
+   {
+    "file": "20260129_window-light-and-snow_09.jpg",
+    "s": "images/window-light-and-snow/20260129_window-light-and-snow_09-s.webp",
+    "m": "images/window-light-and-snow/20260129_window-light-and-snow_09-m.webp",
+    "l": "images/window-light-and-snow/20260129_window-light-and-snow_09-l.webp",
+    "w": 3000,
+    "h": 2250,
+    "color": "rgb(24,24,24)",
+    "exif": {
+     "camera": "FUJIFILM GFX100S II",
+     "lens": "GF55mmF1.7 R WR",
+     "focal": "55mm",
+     "aperture": "f/5",
+     "shutter": "1/800s",
+     "iso": "ISO 100",
+     "date": "2026-01-29"
+    }
+   },
+   {
+    "file": "20260129_window-light-and-snow_10.jpg",
+    "s": "images/window-light-and-snow/20260129_window-light-and-snow_10-s.webp",
+    "m": "images/window-light-and-snow/20260129_window-light-and-snow_10-m.webp",
+    "l": "images/window-light-and-snow/20260129_window-light-and-snow_10-l.webp",
+    "w": 3000,
+    "h": 2250,
+    "color": "rgb(40,40,40)",
+    "exif": {
+     "camera": "SONY ILCE-1M2",
+     "lens": "FE 85mm F1.4 GM II",
+     "focal": "85mm",
+     "aperture": "f/6.3",
+     "shutter": "1/400s",
+     "iso": "ISO 100",
+     "date": "2026-01-29"
+    }
+   },
+   {
+    "file": "20260129_window-light-and-snow_11.jpg",
+    "s": "images/window-light-and-snow/20260129_window-light-and-snow_11-s.webp",
+    "m": "images/window-light-and-snow/20260129_window-light-and-snow_11-m.webp",
+    "l": "images/window-light-and-snow/20260129_window-light-and-snow_11-l.webp",
+    "w": 2250,
+    "h": 3000,
+    "color": "rgb(200,200,200)",
+    "exif": {
+     "camera": "SONY ILCE-1M2",
+     "lens": "FE 85mm F1.4 GM II",
+     "focal": "85mm",
+     "aperture": "f/6.3",
+     "shutter": "1/50s",
+     "iso": "ISO 100",
+     "date": "2026-01-29"
+    }
+   },
+   {
+    "file": "20260129_window-light-and-snow_12.jpg",
+    "s": "images/window-light-and-snow/20260129_window-light-and-snow_12-s.webp",
+    "m": "images/window-light-and-snow/20260129_window-light-and-snow_12-m.webp",
+    "l": "images/window-light-and-snow/20260129_window-light-and-snow_12-l.webp",
+    "w": 2250,
+    "h": 3000,
+    "color": "rgb(168,152,152)",
+    "exif": {
+     "camera": "SONY ILCE-1M2",
+     "lens": "FE 85mm F1.4 GM II",
+     "focal": "85mm",
+     "aperture": "f/16",
+     "shutter": "1/15s",
+     "iso": "ISO 100",
+     "date": "2026-01-29"
+    }
+   },
+   {
+    "file": "20260129_window-light-and-snow_13.jpg",
+    "s": "images/window-light-and-snow/20260129_window-light-and-snow_13-s.webp",
+    "m": "images/window-light-and-snow/20260129_window-light-and-snow_13-m.webp",
+    "l": "images/window-light-and-snow/20260129_window-light-and-snow_13-l.webp",
+    "w": 3000,
+    "h": 2250,
+    "color": "rgb(24,24,24)",
+    "exif": {
+     "camera": "FUJIFILM GFX100S II",
+     "lens": "GF55mmF1.7 R WR",
+     "focal": "55mm",
+     "aperture": "f/5",
+     "shutter": "1/640s",
+     "iso": "ISO 100",
+     "date": "2026-01-29"
+    }
+   },
+   {
+    "file": "20260129_window-light-and-snow_14.jpg",
+    "s": "images/window-light-and-snow/20260129_window-light-and-snow_14-s.webp",
+    "m": "images/window-light-and-snow/20260129_window-light-and-snow_14-m.webp",
+    "l": "images/window-light-and-snow/20260129_window-light-and-snow_14-l.webp",
+    "w": 2249,
+    "h": 3000,
+    "color": "rgb(216,216,232)",
+    "exif": {
+     "camera": "SONY ILCE-1M2",
+     "lens": "FE 85mm F1.4 GM II",
+     "focal": "85mm",
+     "aperture": "f/3.5",
+     "shutter": "1/640s",
+     "iso": "ISO 100",
+     "date": "2026-01-29"
+    }
+   },
+   {
+    "file": "20260129_window-light-and-snow_15.jpg",
+    "s": "images/window-light-and-snow/20260129_window-light-and-snow_15-s.webp",
+    "m": "images/window-light-and-snow/20260129_window-light-and-snow_15-m.webp",
+    "l": "images/window-light-and-snow/20260129_window-light-and-snow_15-l.webp",
+    "w": 2250,
+    "h": 3000,
+    "color": "rgb(200,200,216)",
+    "exif": {
+     "camera": "FUJIFILM GFX100S II",
+     "lens": "GF55mmF1.7 R WR",
+     "focal": "55mm",
+     "aperture": "f/1.7",
+     "shutter": "1/1600s",
+     "iso": "ISO 100",
+     "date": "2026-01-29"
+    }
+   },
+   {
+    "file": "20260129_window-light-and-snow_16.jpg",
+    "s": "images/window-light-and-snow/20260129_window-light-and-snow_16-s.webp",
+    "m": "images/window-light-and-snow/20260129_window-light-and-snow_16-m.webp",
+    "l": "images/window-light-and-snow/20260129_window-light-and-snow_16-l.webp",
+    "w": 3000,
+    "h": 2250,
+    "color": "rgb(152,184,200)",
+    "exif": {
+     "camera": "FUJIFILM GFX100S II",
+     "lens": "GF55mmF1.7 R WR",
+     "focal": "55mm",
+     "aperture": "f/1.7",
+     "shutter": "1/2000s",
+     "iso": "ISO 100",
+     "date": "2026-01-29"
+    }
+   },
+   {
+    "file": "20260129_window-light-and-snow_17.jpg",
+    "s": "images/window-light-and-snow/20260129_window-light-and-snow_17-s.webp",
+    "m": "images/window-light-and-snow/20260129_window-light-and-snow_17-m.webp",
+    "l": "images/window-light-and-snow/20260129_window-light-and-snow_17-l.webp",
+    "w": 2250,
+    "h": 3000,
+    "color": "rgb(56,56,56)",
+    "exif": {
+     "camera": "SONY ILCE-1M2",
+     "lens": "FE 85mm F1.4 GM II",
+     "focal": "85mm",
+     "aperture": "f/3.5",
+     "shutter": "1/320s",
+     "iso": "ISO 100",
+     "date": "2026-01-29"
+    }
+   },
+   {
+    "file": "20260129_window-light-and-snow_18.jpg",
+    "s": "images/window-light-and-snow/20260129_window-light-and-snow_18-s.webp",
+    "m": "images/window-light-and-snow/20260129_window-light-and-snow_18-m.webp",
+    "l": "images/window-light-and-snow/20260129_window-light-and-snow_18-l.webp",
+    "w": 3000,
+    "h": 2250,
+    "color": "rgb(8,8,8)",
+    "exif": {
+     "camera": "SONY ILCE-1M2",
+     "lens": "FE 35mm F1.4 GM",
+     "focal": "35mm",
+     "aperture": "f/1.4",
+     "shutter": "1/2000s",
+     "iso": "ISO 800",
+     "date": "2026-01-29"
+    }
    }
   ]
  }
